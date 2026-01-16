@@ -1,6 +1,14 @@
 <div align="center">
 
-<h1>👋 Olá, eu sou o Sérgio</h1>
+<h1>Sérgio Santos</h1>
+
+<a href="https://www.linkedin.com/in/sergio-santos-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:santosd3v@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <h3>Desenvolvedor Backend • Estudante de Engenharia de Software</h3>
 
@@ -73,14 +81,13 @@ Paixão por tecnologia
 
 <div align="center">
 
-<h2>📫 Contato</h2>
 
-<a href="https://www.linkedin.com/in/sergio-santos-dev/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 🛠️ Tecnologias
 
-<a href="mailto:santosd3v@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,django,postgres,mongodb,git,github" />
 
+</p>
 </div>
+
+
