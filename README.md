@@ -13,7 +13,7 @@
 <h3>Desenvolvedor Backend • Estudante de Engenharia de Software</h3>
 
 <p>
-Sou apaixonado por tecnologia e estou em constante evolução
+Sou apaixonado por tecnologia buscando constante evolução
 como desenvolvedor.<br> Estou focando em backend, lógica de programação e sistemas escaláveis.
 </p>
 
